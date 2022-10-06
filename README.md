@@ -1,4 +1,4 @@
-## Web Programing I Semister One Final Project Dec 2020
+## Web Programing I Semister One Final Project
 Addis Ababa Institute of Technology, Addis Ababa, Ethiopia
 
 
